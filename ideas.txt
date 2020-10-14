@@ -1,0 +1,5 @@
+levenstein distance for ebay results vs cl title
+ebay API integration
+
+calculate score based on time posted vs current time
+score based on avg sold price on ebay vs listing price
